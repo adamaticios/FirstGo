@@ -13,5 +13,5 @@ After each run you will also see the processing time.
 #Download the Zip File
 #Unpack in your selected folder
 #open cmd.exe (Windows Command Line)
-#$ cd {Your Directory Address}
+#$ cd {Your Directory Address}/FirstGo-master
 #$ go run BallClock.go
